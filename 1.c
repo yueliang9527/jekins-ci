@@ -1,2 +1,3 @@
 main
 {}
+return 1;
